@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\bin\Debug\net6.0\10-ordenes.exe
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\bin\Debug\net6.0\10-ordenes.deps.json
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\bin\Debug\net6.0\10-ordenes.runtimeconfig.json
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\bin\Debug\net6.0\10-ordenes.dll
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\bin\Debug\net6.0\10-ordenes.pdb
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.AssemblyInfo.cs
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.dll
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\refint\10-ordenes.dll
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.pdb
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\10-ordenes.genruntimeconfig.cache
+C:\Users\HP\Desktop\L2\Ejercicios\10-ordenes\obj\Debug\net6.0\ref\10-ordenes.dll
